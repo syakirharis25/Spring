@@ -19,7 +19,7 @@ Java official website : https://www.oracle.com/java/ <br />
 Spring official website : https://spring.io <br />
 
 <a name="javadevelopers"></a>
-## 3. Java developers.
+## 3. Spring developers.
 Taylor Wicksell : https://github.com/twicksell, https://twitter.com/TaylorWicksell <br />
 Tom Gianos : https://github.com/tgianos <br />
 
