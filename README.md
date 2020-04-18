@@ -16,7 +16,7 @@ The Spring Framework is an application framework and inversion of control contai
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Java official website : https://www.oracle.com/java/ <br />
-Spring official download page : https://spring.io <br />
+Spring official website : https://spring.io <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
