@@ -24,7 +24,7 @@ Taylor Wicksell : https://github.com/twicksell, https://twitter.com/TaylorWickse
 Tom Gianos : https://github.com/tgianos <br />
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Spring.git
@@ -34,7 +34,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
